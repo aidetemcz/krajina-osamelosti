@@ -1,16 +1,26 @@
 # Idea — zárodek studie
 
 ## Surový vhled
-Osamělost jako kulturně formovaný prožitek, zesílený digitálním prostředím, je klíčovým spouštěčem radikalizace — ne ideologie. Dva případy (Elliot Rodger, Phoenix Ikner) ukazují, jak osamělost v různých epochách internetu (fóra vs. AI chatbot) vede ke stejnému výsledku, přičemž technologie nebyla příčinou, ale zrcadlem a akcelerátorem. Proto zákazy nefungují — řešení je regulace a lepší design.
+Osamělost je novodobý kulturně formovaný prožitek. Uvedené konkrétní příklady novodobé radikalizace ve dvou rovinách (Elliot Rodger, proces radikalizace, vliv internetových fór), Phoenix Ikner (vliv chatbota na radikalizaci). Radikalizace je popsaný proces. Vliv sociálních sítí na proces radikalizace — conclusion: urychlení procesu radikalizace, větší míra radikalizace. V ČR stoupá počet násilných trestných činů u dětí a mladistvých. Jak z toho ven: prevence, regulace, jak postavit vhodnou sociální síť (jak by měla vypadat).
 
-## Cílový výstup
-Medium článek / long-read pro obecné publikum (ne akademický)
+## Cílová forma
+Esej na Medium.com
 
 ## Obor
-Sociologie, mediální studia, psychologie radikalizace
+Společenskovědní, technologický
 
 ## Cílový rozsah
-~2 500–3 500 slov
+5 normostran (~9 000 znaků)
+
+## Osnova
+
+1. Úvod — vysvětlení pojmů, jednoduše
+2. Elliot Rodger
+3. Elliotova osamělost
+4. Phoenix Ikner
+5. Jak radikalizace funguje (obecný mechanismus + spojení s osamělostí + incels)
+6. Česká republika: doma (statistiky násilné kriminality dětí + online radikalizace)
+7. Just turn it off bro — závěr: proč zákazy sociálních sítí nefungují a co místo toho
 
 ## Korpus (co je v raw_primary/)
 - draft-original.md — původní rozepsaný článek Evy Nečasové
