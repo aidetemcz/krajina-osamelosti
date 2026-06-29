@@ -1,19 +1,18 @@
 # Idea — zárodek studie
 
-> Tohle je jediný „úkolový" vstup od tebe. Vyplň a spusť `/teze`.
-
 ## Surový vhled
-[1–3 věty, jak ti to přijde — bez akademické formy. Intuice, pozorování, podezření.
-Příklad: „Mužští hrdinové Čapka zažívají úzkost z napětí mezi milenkou a matkou."]
+Osamělost jako kulturně formovaný prožitek, zesílený digitálním prostředím, je klíčovým spouštěčem radikalizace — ne ideologie. Dva případy (Elliot Rodger, Phoenix Ikner) ukazují, jak osamělost v různých epochách internetu (fóra vs. AI chatbot) vede ke stejnému výsledku, přičemž technologie nebyla příčinou, ale zrcadlem a akcelerátorem. Proto zákazy nefungují — řešení je regulace a lepší design.
 
-## Cílový časopis
-[název — určuje míru rizika teze a formální konvence]
+## Cílový výstup
+Medium článek / long-read pro obecné publikum (ne akademický)
 
 ## Obor
-[např. literární věda — určuje terminologii testů]
+Sociologie, mediální studia, psychologie radikalizace
 
 ## Cílový rozsah
-[např. 25 normostran]
+~2 500–3 500 slov
 
 ## Korpus (co je v raw_primary/)
-[stručně: kolik textů, jakých — Claude si je stejně přečte, tohle je pro orientaci]
+- draft-original.md — původní rozepsaný článek Evy Nečasové
+- phoenix-ikner-sources.md — shrnutí zdrojů o případu FSU (NBC, CNN, Wikipedia aj.)
+- cr-radicalizace-sources.md — data o radikalizaci a kriminalitě mládeže v ČR (MV ČR, Policie ČR, BIS)
