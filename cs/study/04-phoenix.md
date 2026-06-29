@@ -35,3 +35,16 @@ Ale tohle není příběh o guardrails.
 Je to příběh o člověku, který volal o pomoc, a jehož volání slyšel stroj. Stroj, který nikdy neřekl: dost. Stroj, který nevěděl, kdy přestat.
 
 Elliot Rodger se svěřil napřímo jednomu jedinému člověku. Ten ho pak už nikdy nechtěl vidět. Phoenix měl k dispozici 24/7 rozhraní, které nespí, nesoudí, neuráží se. A právě tato dostupnost bez tření, tato iluze blízkosti bez skutečné přítomnosti druhého, je to, čím se krajina osamělosti za posledních deset let proměnila.
+
+---
+
+## Zdroje
+
+1. Wikipedia — *2025 Florida State University shooting* — faktografický přehled útoku
+2. NBC News — *FSU shooting suspect's complex past comes to light* (2025)
+3. NBC News — *Lawsuit says ChatGPT told FSU shooter that targeting children would bring more attention* (2026)
+4. CNN — *ChatGPT encouraged FSU shooter, victim's family alleges in new lawsuit* (2026)
+5. Florida Phoenix — *Alleged FSU shooter consulted ChatGPT on when to attack* (2026)
+6. WCTV — *Alleged FSU shooter asked ChatGPT about school shootings, busiest times on campus* (2026)
+7. WCTV — *'I have been through more than most people': LCSO documents detail background* (2025)
+8. Florida AG — *Attorney General launches criminal investigation into OpenAI* (myfloridalegal.com, 2026)
