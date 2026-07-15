@@ -1,39 +1,28 @@
-# 5. Jak radikalizace funguje
+# Jak radikalizace funguje
 
-Příběhy Elliota a Phoenixe nejsou výjimky. Jsou učebnicové — v tom nejdepresivnějším slova smyslu.
+Elliot a Phoenix nejsou výjimky. Jsou učebnicoví — v tom nejdepresivnějším slova smyslu.
 
-Psychologové a bezpečnostní analytici popisují radikalizaci jako stupňovitý proces. Nejčastěji citovaný model rozlišuje šest fází:
+Bezpečnostní analytici a psychologové popisují radikalizaci jako stupňovitý proces. Model, se kterým pracujeme i v metodice pro školy, rozlišuje šest fází: **křivda a zlost** (mladý člověk má pocit, že je s ním zacházeno nespravedlivě — a je jedno, jestli jde o reálnou zkušenost; z pocitu ublížení se stává hněv) → **ideace** (hněv se mění v představy o odplatě; násilí přestává být tabu) → **průzkum a plánování** (od představ k činům: cíle, prostředky, konkrétní plán) → **příprava** (opatřování zbraní, nácvik) → **průlom** (člověk vědomě či nevědomky dává záměr najevo okolí — říká se tomu „leakage", prosakování; výhružky, varování, třeba na sociálních sítích) → **útok**.
 
-**Křivda a zlost** — mladý člověk má pocit, že je s ním zacházeno nespravedlivě. Z pocitu ublížení se postupně stává hněv.
+Na tom modelu jsou důležité dvě věci.
 
-**Ideace** — hněv se mění v představy o odplatě. Násilí přestává být tabu a začíná se jevit jako pochopitelná reakce na prožívanou křivdu.
+Za prvé: **není to eskalátor, ze kterého se nedá vystoupit.** Každá fáze je bod, kde šlo zasáhnout. Elliot prosakoval celou dobu — den před útokem nahrál video, které vidělo jeho okolí; policie ho přišla zkontrolovat a odešla s tím, že je „zdvořilý a klidný". Phoenix se tři minuty před střelbou ptal chatbota na pojistku brokovnice. Oba volali o pomoc v každé fázi. To není sentimentální řečnická figura — to je nejdůležitější praktická informace celého modelu. Radikalizace je proces, a proces se dá přerušit.
 
-**Průzkum a plánování** — od představ se přechází k činům. Člověk zjišťuje informace o možných cílech, prostředcích a způsobu provedení. Sestavuje konkrétní plán.
+Za druhé: **osamělost v tom modelu nikde nefiguruje — a přitom je všude.** Není to spouštěč. Je to podhoubí. Osamělý člověk projde těmi fázemi snáz, protože mu chybí všechno to, co ostatní lidi na cestě dolů brzdí. A tady se potkávají ty tři mechanismy z úvodu, teď už je známe jménem:
 
-**Příprava** — plán se začíná naplňovat v praxi, například opatřováním pomůcek či zbraní nebo nácvikem samotného útoku.
+**Falešná sounáležitost.** Křivda potřebuje publikum. Osamělý člověk, který nikam nepatří, najde komunitu, která jeho křivdě zatleská a dá jí jazyk, mytologii a nepřítele. (Elliot a PUAhate. Blackpill. „Bývaly velké subkultury, kam se člověk mohl zařadit," říká Jan Paťawa z institutu KRIT. „To je dnes rozdrobené. A tak důstojné přijetí sebe sama často člověk nachází v manosféře. Velmi snadno se tak díky algoritmům ocitne v králičí noře.")
 
-**Průlom** — člověk si ověřuje, nakolik je cíl chráněný, a vědomě či nevědomky dává svůj záměr najevo okolí. Říká se tomu „leakage" (prosakování). Může mít podobu výhružek nebo varování, například na sociálních sítích.
+**Potvrzování místo korekce.** Zúžený pohled na svět nemá kdo opravit. Fórum přikyvuje, chatbot přikyvuje empatičtěji. Každé další odmítnutí, každý další špatný den do té interpretace zapadne — a tunel se zužuje. (Phoenix a 13 000 zpráv.)
 
-**Útok** — závěrečná fáze, v níž dojde k uskutečnění násilného činu.
+**Algoritmické zrychlení.** To, co si dřív musel člověk roky hledat po zaprášených fórech, mu dnes systém aktivně servíruje. O tom celá příští kapitola.
 
-*[vložit diagram]*
-
-Klíčové je, že tento proces není nevratný. Každá fáze je bod, kde mohlo dojít k intervenci. Elliotův otec viděl prosakování — poslední video na YouTube den před útokem — a zavolal policii. Ta ho přišla zkontrolovat, shledala ho „zdvořilým a klidným" a odešla. Phoenix se ptal ChatGPT na střelbu tři minuty před tím, než ji spáchal.
-
-**Kde do tohohle vstupuje osamělost?**
-
-Osamělost není spouštěč radikalizace přímo. Je to podmínka, ve které radikalizace snáze klíčí. Člověk, který má stabilní vztahy, dostává průběžnou korekci svého pohledu na svět — od přátel, rodiny, kolegů. Tato korekce je někdy nepříjemná, ale je to mechanismus, který brání tomu, aby se zkreslené myšlenkové vzorce uzavřely do smyčky. Osamělý člověk tuhle korekci nemá. Nebo ji hledá na místech, která ji neposkytnou — na fórech, které ji nahrazují potvrzením, nebo u chatbota, který ji nahrazuje empatií bez obsahu.
-
-Incel komunity tenhle mechanismus perfektně ilustrují. Muž přijde na fórum s pocitem, že ho dívky odmítají. Místo zpětné vazby, která by ho přiměla zamyslet se nad sebou nebo nad tím, jak fungují vztahy, dostane potvrzení: ano, svět je nespravedlivý, dívky jsou povrchní, ty za to nemůžeš. Každé další odmítnutí pak tuto interpretaci posiluje. Pohled se zužuje, dokud nezůstane jediné vysvětlení: nepřítel.
+Ty mechanismy se navzájem krmí. Falešná komunita dodává obsah, potvrzování ho zabetonuje, algoritmus zrychlí přísun. A všechny tři mají společné jedno: nejsou to vlastnosti osamělosti. Jsou to vlastnosti prostředí, ve kterém se osamělý člověk pohybuje.
 
 ---
 
 ## Zdroje
-
-1. Moghaddam, F. — *The Staircase to Terrorism* (American Psychologist, 2005) — model stupňovité radikalizace
-2. McCauley, C. & Moskalenko, S. — *Friction: How Radicalization Happens to Them and Us* (2011) — psychologie procesu radikalizace
-3. Sageman, M. — *Leaderless Jihad* (2008) — role online komunity v radikalizaci bez centrálního vedení
-4. Windisch, S. et al. — *Measuring the Extent and Nature of Adverse Childhood Experiences* (2017) — trauma jako rizikový faktor
-5. Příručka krizové komunikace pro školy (ČR, 2025) — diagram fází radikalizace, definice „leakage"
-6. Moonshot CVE — *Understanding and Preventing Online Radicalization* (2021)
-7. Khosrokhavar, F. — *Radicalization* (2017) — sociologická perspektiva na radikalizační procesy
+- Model fází radikalizace: metodika AI dětem / Policie ČR, pracovní skupina Radikalizace (diagram)
+- Moghaddam, F.: *The Staircase to Terrorism* (2005)
+- McCauley, C. & Moskalenko, S.: *Friction: How Radicalization Happens to Them and Us* (2011)
+- Houdek, L.: *Dětská agresivita roste a systém nefunguje* (Heroine) — citát Jana Paťawy
+- GNET: *Inside the Discord Server — Echo Chambers and the Spread of Gen Z Radicalisation* (2026)

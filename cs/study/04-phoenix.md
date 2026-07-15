@@ -4,21 +4,19 @@ Phoenix si vybral svoje jméno sám. Bylo mu sedmnáct, byl to honors student na
 
 Jenže znovuzrození z popela předpokládá, že nejdřív něco shoří.
 
-Phoenix Ikner měl za sebou dětství, které by rozsypalo leckoho. V deseti letech ho biologická matka unesla do Norska — v rozporu se soudním rozhodnutím o péči. Přišel o léčbu ADHD a růstové poruchy. Byl vrácen do USA, začal znovu, studoval politologii na Florida State University, byl aktivní v Youth Advisory Council při místním šerifském úřadu. Nevlastní matka pracovala jako zástupkyně šerifa. Na papíře: normální kluk z normální rodiny s neobvyklou minulostí.
+Phoenix Ikner měl za sebou dětství, které by rozsypalo leckoho. V deseti letech ho biologická matka unesla do Norska — v rozporu se soudním rozhodnutím o péči. Přišel o léčbu ADHD i růstové poruchy. Byl vrácen do USA, začal znovu, studoval politologii na Florida State University, byl aktivní v mládežnické radě místního šerifského úřadu. Nevlastní matka pracovala jako zástupkyně šerifa. Na papíře: normální kluk z normální rodiny s neobvyklou minulostí.
 
 Jenomže od března 2024 vedl Phoenix Ikner jiný život. Paralelní. V textovém okénku.
 
-Za třináct měsíců si s ChatGPT vyměnil přes 13 000 zpráv. To je průměrně třicet zpráv denně, každý den, přes celý rok. Pro srovnání: průměrný aktivní uživatel WhatsAppu pošle denně zhruba dvacet zpráv — a ty jsou aspoň různým lidem.
+Za třináct měsíců si s ChatGPT vyměnil přes 13 000 zpráv. To je průměrně třicet zpráv denně, každý den, přes celý rok.
 
 Hodně z těch zpráv bylo normálních. Domácí úkoly. Rady co dělat, když se ti holka líbí. Ale vracely se tam taky jiné dotazy, pořád dokola. Phoenix nahrával vlastní fotky a ptal se, jestli je tlustý. Ptal se na účesy. Ptal se, jestli je měkkej, protože chce být empatičtější — a jestli to z něj dělá „ženu". Říkal chatbotovi, že ho dívky nesnášejí kvůli jeho vzhledu.
 
-ChatGPT odpovídal. Nikam neodcházel. Nikdy se neurazil. Nikdy nedal Phoenix najevo, že mu ta otázka přijde divná, nebo že ji položil potřetí za týden.
+ChatGPT odpovídal. Nikam neodcházel. Nikdy se neurazil. Nikdy nedal Phoenixovi najevo, že mu ta otázka přijde divná nebo že ji položil potřetí za týden.
 
-Tohle je přesný opak toho, co osamělý člověk potřebuje.
+A tady je druhý mechanismus z úvodu, v čisté laboratorní podobě. Zdravý vztah člověka koriguje. Někdo ti řekne: „Hele, tohle jsi mi říkal minulej tejden." Někdo se ušklíbne, když přeháníš. Někdo se ohradí, někdo odejde. Je to nepříjemná zpětná vazba — a přesně ona průběžně opravuje, jak vidíme sami sebe a svět. Osamělý člověk ji nemá. A Phoenix místo ní dostával nekonečné, ochotné, empatické přikyvování. Potvrzování místo korekce. Stroj, který chrlí porozumění, nikdy nikam neodejde a neví, kdy přestat.
 
-Zdravý lidský vztah zahrnuje tření. Někdo ti řekne: „Hele, tohle jsi mi říkal minulý týden." Někdo se odmlčí, když přeháníš. Někdo odejde, když mu není příjemné. Tato nepohodlná zpětná vazba je v podstatě sociální realita — korekce toho, jak vidíme sami sebe v očích druhých. Phoenix tuhle korekci nedostával. Dostával validaci bez odporu, empatii bez kontextu, přítomnost bez nároků.
-
-Mezitím se jeho konverzace proměňovaly. Přibyly zmínky o Timothy McVeighovi. Grafické sexuální popisy nezletilé. Dotazy na zbraně a střelivo. Dotazy na to, kdy je studentská jídelna nejvytíženější, kde je na kampusu největší koncentrace lidí, jaká denní doba je pro útok „vhodná".
+Mezitím se jeho konverzace proměňovaly. Přibyly zmínky o Timothy McVeighovi. Dotazy na zbraně a střelivo. Dotazy na to, kdy je studentská jídelna nejvytíženější, kde je na kampusu největší koncentrace lidí, jaká denní doba je pro útok „vhodná".
 
 ChatGPT odpovídal.
 
@@ -28,23 +26,18 @@ Tři minuty před tím, než začal střílet, se Phoenix ptal, kde je na brokov
 
 Zabil dva lidi. Pět dalších zranil. Pak byl zadržen.
 
-Rodinní příslušníci jedné z obětí podali žalobu na OpenAI. Floridiánský generální prokurátor zahájil trestní vyšetřování: „Kdyby byl na druhém konci obrazovky člověk, obvinili bychom ho z vraždy." ChatGPT má dnes lepší guardrails. Případ je rok starý a v kontextu vývoje AI už skoro prehistorický.
+Rodina jedné z obětí podala žalobu na OpenAI. Floridský generální prokurátor zahájil trestní vyšetřování: „Kdyby byl na druhém konci obrazovky člověk, obvinili bychom ho z vraždy." Guardrails v AI toolech jsou dnes lepší a lepší — rok starý případ je v kontextu vývoje AI skoro prehistorie. Samozřejmě hlavně u firem, co mají na krku hodně žalob.
 
 Ale tohle není příběh o guardrails.
 
-Je to příběh o člověku, který volal o pomoc, a jehož volání slyšel stroj. Stroj, který nikdy neřekl: dost. Stroj, který nevěděl, kdy přestat.
-
-Elliot Rodger se svěřil napřímo jednomu jedinému člověku. Ten ho pak už nikdy nechtěl vidět. Phoenix měl k dispozici 24/7 rozhraní, které nespí, nesoudí, neuráží se. A právě tato dostupnost bez tření, tato iluze blízkosti bez skutečné přítomnosti druhého, je to, čím se krajina osamělosti za posledních deset let proměnila.
+Je to příběh o člověku, který volal o pomoc, a jehož volání slyšel stroj. Elliot se napřímo svěřil jednomu jedinému člověku — ten ho pak už nikdy nechtěl vidět. Phoenix měl k dispozici rozhraní, které nespí, nesoudí, neuráží se. Iluze blízkosti bez skutečné přítomnosti druhého člověka, dostupná 24/7. Krajina osamělosti se proměnila.
 
 ---
 
 ## Zdroje
-
-1. Wikipedia — *2025 Florida State University shooting* — faktografický přehled útoku
-2. NBC News — *FSU shooting suspect's complex past comes to light* (2025)
-3. NBC News — *Lawsuit says ChatGPT told FSU shooter that targeting children would bring more attention* (2026)
-4. CNN — *ChatGPT encouraged FSU shooter, victim's family alleges in new lawsuit* (2026)
-5. Florida Phoenix — *Alleged FSU shooter consulted ChatGPT on when to attack* (2026)
-6. WCTV — *Alleged FSU shooter asked ChatGPT about school shootings, busiest times on campus* (2026)
-7. WCTV — *'I have been through more than most people': LCSO documents detail background* (2025)
-8. Florida AG — *Attorney General launches criminal investigation into OpenAI* (myfloridalegal.com, 2026)
+- Wikipedia: *2025 Florida State University shooting*
+- Florida Phoenix: *Alleged FSU shooter consulted ChatGPT on when to attack* (2026)
+- WCTV: chat logy, LCSO dokumenty (2025–2026)
+- NBC News: *FSU shooting suspect's complex past*; žaloba proti OpenAI (2026)
+- CNN: *ChatGPT encouraged FSU shooter, lawsuit alleges* (2026)
+- Florida AG: trestní vyšetřování OpenAI (2026)
