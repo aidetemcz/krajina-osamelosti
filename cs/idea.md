@@ -3,6 +3,11 @@
 ## Surový vhled
 Osamělost je novodobý kulturně formovaný prožitek. Uvedené konkrétní příklady novodobé radikalizace ve dvou rovinách (Elliot Rodger, proces radikalizace, vliv internetových fór), Phoenix Ikner (vliv chatbota na radikalizaci). Radikalizace je popsaný proces. Vliv sociálních sítí na proces radikalizace — conclusion: urychlení procesu radikalizace, větší míra radikalizace. V ČR stoupá počet násilných trestných činů u dětí a mladistvých. Jak z toho ven: prevence, regulace, jak postavit vhodnou sociální síť (jak by měla vypadat).
 
+## Teze (schválená autorkou)
+Osamělost je prožitek, který pramení z osobnosti a vnitřního prožívání každé živé bytosti — a zároveň jej formuje prostředí, v němž se tato bytost pohybuje. Radikalizace je proces, který osamělost působením prostředí zesiluje, nikoli koriguje.
+
+Stojí na třech základních mechanismech: **falešné sounáležitosti**, **potvrzování místo korekce** a **algoritmickém zrychlení**. Design mnoha dnešních technologií tyto tři mechanismy systematicky posiluje. Zákaz je však slepá ulička — často jen nespolehlivě omezuje přístup k technologiím, aniž by vytvářel tlak na změnu mechanismů samotných. Na ty dokáže cílit jen jiný design — takový, který je vědomě oslabuje, místo aby je posiloval.
+
 ## Cílová forma
 Esej na Medium.com
 
@@ -14,14 +19,14 @@ Společenskovědní, technologický
 
 ## Osnova
 
-1. Úvod — vysvětlení pojmů, jednoduše
-2. Elliot Rodger
-3. Elliotova osamělost
-4. Phoenix Ikner
-5. Jak radikalizace funguje (obecný mechanismus + spojení s osamělostí + incels)
-6. Česká republika: doma (statistiky násilné kriminality dětí + online radikalizace)
-7. Vliv sociálních platforem na radikalizaci
-8. Just turn it off bro — co nám řekla Austrálie + dobrý a špatný design sociálních platforem
+1. Úvod — vysvětlení pojmů, jednoduše; nastínění teze (tři mechanismy)
+2. Elliot Rodger (éra fór; diagram fází radikalizace)
+3. Elliotova osamělost (incels jako subkultura — falešná sounáležitost)
+4. Phoenix Ikner (éra AI chatbotů — potvrzování místo korekce)
+5. Jak radikalizace funguje (obecný mechanismus + tři mechanismy teze pohromadě)
+6. Vliv sociálních platforem na radikalizaci (algoritmické zrychlení)
+7. Česká republika: doma (statistiky + online radikalizace + komplikace: chudoba, systém)
+8. Just turn it off bro — co nám řekla Austrálie + dobrý a špatný design (Glitch)
 9. Závěr
 
 ## Korpus
