@@ -20,7 +20,9 @@ Společenskovědní, technologický
 4. Phoenix Ikner
 5. Jak radikalizace funguje (obecný mechanismus + spojení s osamělostí + incels)
 6. Česká republika: doma (statistiky násilné kriminality dětí + online radikalizace)
-7. Just turn it off bro — závěr: proč zákazy sociálních sítí nefungují a co místo toho
+7. Vliv sociálních platforem na radikalizaci
+8. Just turn it off bro — co nám řekla Austrálie + dobrý a špatný design sociálních platforem
+9. Závěr
 
 ## Korpus (co je v raw_primary/)
 
