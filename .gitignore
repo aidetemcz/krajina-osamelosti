@@ -2,13 +2,10 @@
 *.tmp
 export/
 
-# CORPUS IS NOT COMMITTED (copyright): contents of raw_* stay local in both kits;
-# only the empty folders are versioned via .gitkeep
-cs/raw_primary/*
-cs/raw_secondary/*
+# Corpus for the cs/ project IS versioned (author's own research + Glitch
+# materials) so it syncs between the author and the agent session.
+# en/ kit corpus stays local (copyright): only the empty folders are versioned.
 en/raw_primary/*
 en/raw_secondary/*
-!cs/raw_primary/.gitkeep
-!cs/raw_secondary/.gitkeep
 !en/raw_primary/.gitkeep
 !en/raw_secondary/.gitkeep
