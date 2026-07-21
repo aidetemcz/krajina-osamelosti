@@ -66,9 +66,9 @@ Kompletní soupis zdrojů použitých v článku, po kapitolách. Odkazy převza
 ## 8. Just turn it off bro
 
 - eSafety Commissioner (AU): [Social media age restrictions](https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions) — Online Safety Amendment (Social Media Minimum Age) Act 2024
-- University of Newcastle / *British Medical Journal*: studie o užívání sítí dětmi po zákazu — přes 85 % dětí pod 16 let (2026; viz korpus vyzkum-08)
-- Molly Rose Foundation: průzkum 12–15 let — přes 60 % s udrženým přístupem (2026; viz korpus vyzkum-08)
-- Zpravodajství o vymáhání: Fortune, Engadget (2026; viz korpus vyzkum-08)
+- University of Newcastle / *BMJ*: [studie — přes 85 % dětí pod 16 let dál na sítích 3 měsíce po zákazu](https://doi.org/10.1136/bmj-2026-363695) (2026) · [tisková zpráva BMJ Group](https://bmjgroup.com/little-evidence-that-australias-under-16-social-media-restrictions-have-curbed-use-among-adolescents/) · [tisková zpráva University of Newcastle](https://www.newcastle.edu.au/news/2026/06/australias-social-media-age-restrictions-show-limited-early-impact-new-research-finds)
+- Molly Rose Foundation: [61 % dětí 12–15 let s dřívějším účtem má dál přístup](https://mollyrosefoundation.org/more-than-60-of-australian-children-still-using-social-media-despite-ban-for-under-16s-research-shows/) (2026) · [research briefing PDF](https://mollyrosefoundation.org/wp-content/uploads/2026/04/MRF_Australia-Social-Media-Ban-Research_Briefing-April-26.pdf)
+- Fortune: [teens sidestep age verification with face masks and parents' IDs](https://fortune.com/2026/04/25/australia-social-media-ban-isnt-working-teens-sidestepping-restrictions/) (2026)
 - Glitch: [aplikace](https://glitch-livid-three.vercel.app/) · [mapa informatických konceptů](https://knowledge-map-glitch.vercel.app/)
 - Kordík, P. & Nečasová, E.: *p-book* (RecSys '26 demo) — PDF v korpusu (raw_secondary/pbook-recsys26-demo.pdf)
 - Interní podklady: *Popis fungování Glitche*; *Vymezení — zákaz sociálních sítí*; *Modely fungování sociálních sítí* (raw_secondary)
