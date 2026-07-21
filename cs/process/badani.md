@@ -4,9 +4,14 @@ Artefakt podle metodiky `/badani`. U každého zdroje: pozice (parafráze s prov
 
 ---
 
-## 1. Kruglanski et al. — Significance-Quest Theory (SQT)
+## 1. Kruglanski, Bélanger, Gunaratna — *The Three Pillars of Radicalization: Needs, Narratives, and Networks* (OUP 2019) + SQT abstrakt
 
-**Zdroj:** `raw_secondary/kruglanski-sqt-abstrakt.md` (doslovný abstrakt; bibliografický údaj ověřit před citováním)
+**Zdroje:** `raw_primary/The Three Pillars of Radicalization … .pdf` (plný text knihy, ~102 tis. slov) a `raw_secondary/kruglanski-sqt-abstrakt.md` (abstrakt pozdějšího přehledového článku)
+
+**Jádro pozice knihy (doslovné kotevní fráze):**
+- Quest for significance: *„the fundamental desire to matter, to be someone, to have respect"* (kap. Significance Quest Theory of Radicalization). Pod rozmanitými motivy teroristů (čest, pomsta, náboženství…) leží jedna obecná motivační síla.
+- Potřeba sama násilí neplodí: *„it is not the quest for significance as such that drives violence"* — táž potřeba může sytit i altruismus; rozhoduje narativ.
+- Dělba rolí tří N (shrnutí knihy): *„The ideological narrative identifies the means to that end (i.e., how significance may be gained) and legitimizes it, and the social network validates the violence–significance nexus and dispenses significance."* Síť je skupina, *„whose acceptance and appreciation one seeks and whose validation of the ideological narrative is essential to its believability"*.
 
 **Pozice zdroje.** Existuje univerzální lidská potřeba „mít sociální hodnotu" (kotevní fráze: *„the need to have social worth"*). Prostředky jejího naplnění určuje **narativ**, který podporuje a potvrzuje **síť** — referenční skupina (*„a narrative supported and validated by one's network"*). Usilování o významnost se aktivuje **ztrátou významnosti** nebo příležitostí ji získat (*„activated by significance loss"*). Potřeba je univerzální; sociokulturní kontext určuje, čím se sytí.
 
@@ -15,7 +20,9 @@ Artefakt podle metodiky `/badani`. U každého zdroje: pozice (parafráze s prov
 - síť, která potvrdí (Network) ↔ mechanismus 1: falešná sounáležitost
 - narativ potvrzovaný sítí (Narrative) ↔ mechanismus 2: potvrzování místo korekce
 
-**Přepočet originality.** SQT už říká: radikalizuje souběh potřeby + narativu + sítě; potřeba je normální, patologická je cesta sycení. Teze eseje tedy NENÍ nová v tom, ŽE sounáležitost a potvrzování radikalizují. Vlastní příspěvek eseje zůstává: (a) **překlad do designové řeči** — mechanismy jako vlastnosti prostředí/platforem, ne osoby; (b) **algoritmické zrychlení** — složka, kterou SQT nemá (teorie vznikla před érou doporučovacích feedů); (c) éra chatbotů (Phoenix) jako nová podoba „sítě", kterou SQT nepředvídala — síť z jednoho stroje.
+**Přepočet originality.** Kniha (2019) už říká: radikalizuje souběh potřeby + narativu + sítě; potřeba je normální a univerzální, patologická je cesta sycení („není to quest sám, kdo žene násilí"). Teze eseje tedy NENÍ nová v tom, ŽE sounáležitost (síť) a nezpochybněný narativ radikalizují — to je etablovaná teorie s empirickou oporou. Vlastní příspěvek eseje zůstává: (a) **překlad do designové řeči** — mechanismy jako vlastnosti prostředí/platforem, ne osoby; kniha popisuje, CO se musí sejít, esej popisuje, KTERÉ designové volby to dnes systematicky svolávají; (b) **algoritmické zrychlení** — složka, kterou 3N nemá (kniha éru doporučovacích feedů tematizuje jen okrajově); (c) éra chatbotů (Phoenix) jako podoba „sítě", kterou 3N nepředvídal — validace narativu strojem, síť z jednoho uzlu.
+
+**Využití v článku (kap. 5):** 1–2 věty: „Psychologie to zná jako model tří N — potřeba významnosti, narativ, síť (Kruglanski et al. 2019). Tahle esej k tomu dodává čtvrté N, které v roce 2019 teprve klíčilo: nástroje, které zbylé tři N doručují automatizovaně." Parafráze s atribucí, kotevní fráze výše.
 
 ---
 
